@@ -1,0 +1,8 @@
+{
+    "apiKey": "",
+    "webhookURL": "",
+    "searchText": "search=rtx&search=3080",
+    "maxSalePrice": 900,
+    "pageSize": 15,
+    "requestInterval": 10000
+}
